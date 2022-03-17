@@ -1,0 +1,20 @@
+C:\Users\Saulo\source\repos\Calculo\bin\Debug\Calculo.exe.config
+C:\Users\Saulo\source\repos\Calculo\bin\Debug\Calculo.exe
+C:\Users\Saulo\source\repos\Calculo\bin\Debug\Calculo.pdb
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.Form1.resources
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.exe
+C:\Users\Saulo\source\repos\Calculo\obj\Debug\Calculo.pdb
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\bin\Debug\Calculo.exe.config
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\bin\Debug\Calculo.exe
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\bin\Debug\Calculo.pdb
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.Form1.resources
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.exe
+D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.pdb
