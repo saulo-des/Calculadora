@@ -18,3 +18,13 @@ D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.
 D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
 D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.exe
 D:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.pdb
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\bin\Debug\Calculo.exe.config
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\bin\Debug\Calculo.exe
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\bin\Debug\Calculo.pdb
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csprojAssemblyReference.cache
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.Form1.resources
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.Properties.Resources.resources
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csproj.GenerateResource.cache
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.csproj.CoreCompileInputs.cache
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.exe
+H:\Documentos\Cursos\Cursos a Parte\Projetos_Pessoais\Calculo\obj\Debug\Calculo.pdb
